@@ -1,0 +1,17 @@
+
+<aura:application extends="force:slds" implements="flexipage:availableForAllPageTypes">
+    <!-- backing data -->
+    <aura:attribute name="data" type="List" />
+
+    <!-- data table attributes -->
+    <aura:attribute name="columns" type="List" />
+    <aura:attribute name="filteredData" type="List" />
+
+    <!-- filter input -->
+    <aura:attribute name="filter" type="String" />
+
+    <aura:handler name="init" value="{!this}" action="{!c.init}" />
+
+    <lightning:input type="text" onchange="{!c.filter}" value="{!v.filter}" label="Filter" />
+    <lightning:datatable keyField="name" columns="{!v.columns}" data="{!v.filteredData}" />
+</aura:application>

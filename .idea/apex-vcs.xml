@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-record>
+      <option name="path" value="/src/lwc/helloWorld/helloWorld.html" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/aura/Button1/Button1.cmp" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/classes/But1Controller.cls" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/aura/Button1/Button1.cmp-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/aura/HelloWorld/HelloWorld.cmp" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/aura/HelloWorld/HelloWorld.cmp-meta.xml" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/classes/But1Controller.cls-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/lwc/helloWorld/helloWorld.js-meta.xml" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/aura/HelloWorlddd/HelloWorlddd.app-meta.xml" />
+      <option name="type" value="DELETED" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/lwc/helloWorld/helloWorld.js" />
+      <option name="type" value="NEW" />
+    </index-record>
+    <index-record>
+      <option name="path" value="/src/aura/HelloWorlddd/HelloWorlddd.app" />
+      <option name="type" value="DELETED" />
+    </index-record>
+  </component>
+</project>
